@@ -1,0 +1,15 @@
+{
+  "name": "Buffered Streams",
+  "version": "1.0.0",
+  "description": "Implementation of the Arduino Stream class which use internal ring buffers to emulate a pair of connected Streams or a Loopback Stream. Based on Buffered Streams by Paulo Costa <me+arduino@paulo.costa.nom.br>",
+  "keywords": "Stream, buffer",
+  "authors":
+  [
+    {
+      "name": "Carl Kamper",
+      "email": "carl@carlk.org"
+    }
+  ],
+  "frameworks": "*",
+  "platforms": "*"
+}
